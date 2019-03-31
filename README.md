@@ -20,7 +20,7 @@ Visual Studio 2017 ou superior (opcional no Windows ou Mac)
 
 ### Instalação
 
-Deve ser criado uma Blank Solution no Visual Studio com o nome BattleRoyalle, ou executar o no prompt do Windows ou terminal (Linux e Mac) os seguintes comandos:
+Deve ser criado uma Blank Solution no Visual Studio com o nome BattleRoyalle, ou executar o no prompt do Windows ou terminal (Linux e Mac) o seguinte comando:
 
 ```
 dotnet new sln -o BattleRoyalle
